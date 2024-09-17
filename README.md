@@ -1,0 +1,1 @@
+This is a React-based stopwatch application using hooks like useState, useRef, and useEffect. The stopwatch supports start, stop, and reset functionality with time management through setInterval. The project demonstrates the implementation of a functional component with clean state handling and side effects in React
